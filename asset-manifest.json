@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Home-Work-12/static/css/main.1944df93.css",
+    "main.js": "/Home-Work-12/static/js/main.ed3111ff.js",
+    "static/media/image.jpg": "/Home-Work-12/static/media/image.c40a9167dc81752e7fb1.jpg",
+    "static/media/basket-icon.svg": "/Home-Work-12/static/media/basket-icon.c36faa3efca4c2a3b7311ff4f8994381.svg",
+    "static/media/plus-icon.svg": "/Home-Work-12/static/media/plus-icon.615aae21874dd2f3df76a1020f05906d.svg",
+    "index.html": "/Home-Work-12/index.html",
+    "static/media/minus.svg": "/Home-Work-12/static/media/minus.c485e6fde4d19ac2fd0cec0d4c7d72fa.svg",
+    "main.1944df93.css.map": "/Home-Work-12/static/css/main.1944df93.css.map",
+    "main.ed3111ff.js.map": "/Home-Work-12/static/js/main.ed3111ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1944df93.css",
+    "static/js/main.ed3111ff.js"
+  ]
+}
